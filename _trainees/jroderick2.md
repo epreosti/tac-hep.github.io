@@ -5,7 +5,7 @@ shortname: jroderick2
 name:name: Jenna Roderick
 start_date: "2025-06-22"
 end_date: ""
-photo: /assets/images/trainees/<Firs-Roderick.jpg
+photo: /assets/images/trainees/Jenna-Roderick.jpg
 institution: University of Wisconsin - Madison
 training_modules:
 - 
