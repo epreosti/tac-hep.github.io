@@ -10,7 +10,7 @@ training_modules:
 - Software Engineering for Scientific Computing module
 - GPU training module
 - FPGA training module (in progress)
-photo: /assets/images/trainees/Elias-Mettner.jpg
+photo: /assets/images/trainees/Elias-Mettner.jpeg
 institution: University of Wisconsin - Madison
 e-mail: emettner@wisc.edu
 networks:
